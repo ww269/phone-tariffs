@@ -1,0 +1,11 @@
+.phone-table td {
+    border:none;
+}
+
+.tariff-table td {
+    border-top:solid thin #DEE2E6;
+}
+
+.tariff-header {
+    font-weight: 500;
+}
