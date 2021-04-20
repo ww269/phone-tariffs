@@ -65,7 +65,7 @@
     <div class="row" style="height:100vh">
         <div class="col col-xl-8 mx-auto pt-3 bg-light">
             <header class="mb-3">
-                <h3 class="text-center ">Phone Tariffs</h3>
+                <h3 class="text-center">Phone Tariffs</h3>
             </header>
             <main>
                 
