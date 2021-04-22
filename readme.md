@@ -2,7 +2,7 @@
 
 > This application retrieves a CSV file containing phone tariffs information and displays this data in a table, grouped by the make and model. 
 
-[wwong-cv.com/phone-tariffs](https://wwong-cv.com/phone-tariffs)
+[wwong-cv.com/apps/phone-tariffs](https://wwong-cv.com/apps/phone-tariffs)
 
 ### Improvements
 
